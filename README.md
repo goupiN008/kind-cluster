@@ -1,6 +1,6 @@
 # Kubernetes cluster via Kind
 
-## preriquisite
+## prerequisite
 - kind
 - kubectl
   
